@@ -64,4 +64,4 @@ These changes aim to reduce precision on Apple Silicon devices to enhance infere
 
 ## Disclaimer
 
-This modified code is provided as-is. The modifications are intended to enable mixed precision inference on Apple Silicon devices. Users may need to adjust the code further based on their specific environment and requirements.
+This modified code is provided as-is. The modifications are intended to enable lower precision inference on Apple Silicon devices.
