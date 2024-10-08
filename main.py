@@ -7,7 +7,7 @@ import sys
 # Toggle to switch between full response and extracted description
 OUTPUT_FULL_RESPONSE = False
 
-# Ensure we're using the MPS device if available
+# Ensure we're using the mps device if available
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 
 
